@@ -1,0 +1,45 @@
+{
+  "name": "wabot-ai",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Using Lib Baileys Multi Device By Coder KazeDevID.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./connect/index.js"
+  },
+  "homepage": "https://github.com/kazedevid/wabot-ai#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kazedevid/wabot-ai.git"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp-openai",
+    "whatsapp-openai",
+    "whatsapp-bot",
+    "whatsapp-baileys",
+    "baileys-md",
+    "bot-wa",
+    "bot-md",
+    "whatsapp-multi-device"
+  ],
+  "author": "KazeDevID",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "npm:baileysssss@^4.4.5",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.0",
+    "@kazesolo/text-animation": "^1.0.4",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^1.3.4",
+    "spinnies": "^0.5.1",
+    "colors": "^1.4.0",
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "figlet": "^1.5.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.21",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0",
+    "util": "^0.12.4"
+  }
+}
